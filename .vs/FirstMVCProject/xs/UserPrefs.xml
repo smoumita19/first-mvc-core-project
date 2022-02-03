@@ -1,4 +1,29 @@
 ﻿<Properties StartupConfiguration="{BFD850D0-A4A3-46F4-8B64-3DDE868AE767}|FirstMVCProject">
-  <MonoDevelop.Ide.ItemProperties.FirstMVCProject FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstMVCProject/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="FirstMVCProject/Views/Shared/_Layout.cshtml" Line="14" Column="105" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstMVCProject" expanded="True">
+            <Node name="FirstMVCProject" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FirstMVCProject PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>
